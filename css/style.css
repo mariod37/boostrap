@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    /* padding: 1rem; */
+    color: white;
+    font-size: 4rem;
+   
+   
+}
+span{
+    font-size: 5rem;
+}
+.navbar{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 1rem;
+}
+
+
+.text-primary{
+    text-align: center;
+}
+.container-card {
+    margin-top: 1rem;
+    background-color: rgb(144, 175, 202);
+}
+
+.contacto{
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+.container-form{
+    background-color: rgba(72, 63, 63, 0.418);
+    margin: 1rem auto;
+    padding: 1rem;
+    width: 60%;
+    border-radius: 8px;
+}
+
+.form-label{
+    color: white;
+}
